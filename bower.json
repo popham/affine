@@ -1,0 +1,28 @@
+{
+  "name": "affine",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/popham/affine",
+  "authors": [
+    "Tim Popham <popham@uw.edu>"
+  ],
+  "description": "Affine geometry basics--points and vectors",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "affine",
+    "point",
+    "vector",
+    "geometry"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
