@@ -23,7 +23,5 @@
     "url": "https://github.com/popham/affine/issues"
   },
   "homepage": "https://github.com/popham/affine",
-  "dependencies": {
-    "amdefine": "^0.1.0"
-  }
+  "dependencies": {}
 }
