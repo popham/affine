@@ -1,6 +1,6 @@
 {
   "name": "affine",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Affine geometry basics--points and vectors",
   "main": "main.js",
   "dojoBuild": "profile.js",
